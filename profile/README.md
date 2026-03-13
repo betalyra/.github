@@ -13,9 +13,14 @@ We are [betalyra](https://betalyra.com), an AI innovation lab based in Portugal.
 
 * **languages:** typescript, rust, python
 * **ml:** transformers, pytorch, transformers.js
-* **frameworks:** effect-ts
+* **frameworks:** effect-ts, astro, react-router, tanstack
 * **databases:** postgres, redis
 * **ui:** tailwindcss
+
+### Projects
+
+* [cuttlekit](https://cuttlekit.com)
+* [searchattention](https://searchattention.com)
 
 ### Careers
 We are always on the lookout for talented ML & AI engineers. Like to join us? Send your cv to hello@betalyra.com.
