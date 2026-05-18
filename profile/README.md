@@ -23,6 +23,7 @@ We are [betalyra](https://betalyra.com), an AI innovation lab based in Portugal.
 * [effect-uai](https://effect-uai.betalyra.com) - Effectful building blocks for agentic ai
 * [codehübsch](https://codehubsch.com) - Pretty code screenshots
 * [searchattention](https://searchattention.com) - AI search optimisation (discontinued)
+* [unthrill.me](https://unthrill.me) - Tired of being thrilled? Unthrill yourself!
 
 ### Careers
 We are always on the lookout for talented ML & AI engineers. Like to join us? Send your cv to hello@betalyra.com.
