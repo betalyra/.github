@@ -19,9 +19,9 @@ We are [betalyra](https://betalyra.com), an AI innovation lab based in Portugal.
 
 ### Projects
 
-* [cuttlekit](https://cuttlekit.com) - Generative UI toolkit
-* [effect-uai](https://effect-uai.betalyra.com) - Effectful building blocks for agentic ai
-* [codehübsch](https://codehubsch.com) - Pretty code screenshots
+* **cuttlekit** - Generative UI toolkit · [Web](https://cuttlekit.com) · [GitHub](https://github.com/betalyra/cuttlekit)
+* **effect-uai** - Effectful building blocks for agentic ai · [Web](https://effect-uai.betalyra.com) · [GitHub](https://github.com/betalyra/effect-uai)
+* **codehübsch** - Pretty code screenshots · [Web](https://codehubsch.com) · [GitHub](https://github.com/betalyra/code-hubsch)
 * [searchattention](https://searchattention.com) - AI search optimisation (discontinued)
 * [unthrill.me](https://unthrill.me) - Tired of being thrilled? Unthrill yourself!
 
