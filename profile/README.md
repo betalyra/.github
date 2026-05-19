@@ -3,10 +3,11 @@
 We are [betalyra](https://betalyra.com), an AI innovation lab based in Portugal. We love to build beautiful stuff with AI. 
 
 ### DL expertise
+* **agentic ai**
 * **model training, fine-tuning**
 * **web ai**
 * **mechanistic interpretability**
-* **RAG & agentic systems**
+* **RAG & context engineering**
 * **MLOps**
 
 ### Tech stack
