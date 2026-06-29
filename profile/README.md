@@ -28,7 +28,7 @@ We are [betalyra](https://betalyra.com), an AI innovation lab based in Portugal.
 
 **Other open source stuff**
 * [awesome-effect-ts](https://github.com/betalyra/awesome-effect-ts) - Awesome Effect libs, apps and content
-* [effect-skills]([https://github.com/betalyra/effect-skills) - Agent skill for coding with Effect
+* [effect-skills](https://github.com/betalyra/effect-skills) - Agent skill for coding with Effect
 
 ### Careers
 We are always on the lookout for talented ML & AI engineers. Like to join us? Send your cv to hello@betalyra.com.
